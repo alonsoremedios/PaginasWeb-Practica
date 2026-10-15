@@ -14,7 +14,7 @@ Esta es una solución al reto del [QR code component en Frontend Mentor](https:/
 
 ## Vista previa
 
-![Captura de pantalla de la solución](./design/desktop-preview.jpg)
+![Captura de pantalla de la solución](./design/preview.png)
 
 ---
 
